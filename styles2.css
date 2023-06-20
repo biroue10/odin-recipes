@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 2px solid green;
+}
+.container{
+width: 50%;
+margin: auto;
+
+}
+ol ul{
+    padding-left: 20px;
+    
+}
+.container h1{
+    box-shadow: cadetblue;
+    text-align: center;
+}
